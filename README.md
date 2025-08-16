@@ -18,8 +18,9 @@ This project focuses on building a **modern cloud-based data platform** where da
 
 ---
 
+
 ## 🏗️ Project Architecture
-![Project Architecture](architecture/azure_medallion_architecture.png)
+![Project Architecture](https://github.com/CloudCoder360/Azure-NYC-Taxi-Medallion-Pipeline/blob/4f07db3c4c3dde6afcd8481456ad1fb452be91b2/Data/archi.png)
 
 The project follows the **Medallion Architecture**:  
 
